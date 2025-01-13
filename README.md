@@ -1,6 +1,6 @@
 # FTC-Servo-Helper-Examples
 
-Included in this repo are the two Java files mentioned in our "Programming and Implementing Servos in FTC" YouTube video. 
+Included in this repo are the two Java files mentioned in our "Programming and Implementing Servos in FTC" YouTube video: https://youtu.be/s_4Xvi8vru4?si=pAUGvQjlxN1oCukZ
 
 The first (Servo Position Helper) is designed to make finding your ideal servo position easier. It installs a servo and allows you to change its position using a gamepad.
 The second (ServoEx Example) is a demo of some of the more advanced features available for servos in FTC. Including changing the PWM range and default direction. 
